@@ -66,6 +66,7 @@
 		<module>models/spring-ai-postgresml</module>
 		<module>models/spring-ai-stability-ai</module>
 		<module>models/spring-ai-transformers</module>
+		<module>models/spring-ai-google-ai-gemini</module>
 		<module>models/spring-ai-vertex-ai-gemini</module>
 		<module>models/spring-ai-vertex-ai-palm2</module>
 		<module>models/spring-ai-watsonx-ai</module>
