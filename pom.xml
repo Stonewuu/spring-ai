@@ -75,6 +75,7 @@
 		<module>spring-ai-spring-boot-starters/spring-ai-starter-anthropic</module>
 		<module>spring-ai-spring-boot-starters/spring-ai-starter-azure-openai</module>
 		<module>spring-ai-spring-boot-starters/spring-ai-starter-bedrock-ai</module>
+		<module>spring-ai-spring-boot-starters/spring-ai-starter-huggingface</module>
 		<module>spring-ai-spring-boot-starters/spring-ai-starter-minimax</module>
 		<module>spring-ai-spring-boot-starters/spring-ai-starter-mistral-ai</module>
 		<module>spring-ai-spring-boot-starters/spring-ai-starter-ollama</module>
@@ -139,9 +140,9 @@
 		<victools.version>4.31.1</victools.version>
 		<bedrockruntime.version>2.25.3</bedrockruntime.version>
 		<jackson.version>2.16.1</jackson.version>
-		<djl.version>0.26.0</djl.version>
+		<djl.version>0.28.0</djl.version>
 		<onnxruntime.version>1.17.0</onnxruntime.version>
-		<com.google.cloud.version>26.39.0</com.google.cloud.version>
+		<com.google.cloud.version>26.41.0</com.google.cloud.version>
 		<qdrant.version>1.9.1</qdrant.version>
 		<spring-retry.version>2.0.5</spring-retry.version>
 		<ibm.sdk.version>9.20.0</ibm.sdk.version>
